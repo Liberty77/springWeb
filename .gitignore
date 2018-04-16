@@ -1,0 +1,11 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+
+*.class
+
+*/out/
+*/lib/
+
+*/web/Web-INF/classes
